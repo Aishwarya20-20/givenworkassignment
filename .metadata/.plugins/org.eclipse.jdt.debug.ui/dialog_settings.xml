@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ReturnType/src&amp;lt;com{MethodExecution.java[MethodExecution&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ReturnType/src&amp;lt;com{MethodExecution.java[MethodExecution[OverloadMethod&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ReturnType/src&amp;lt;com{MethodExecution.java[MethodExecution[callMethod&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=InnerClass/src&amp;lt;com{InnerClass.java[InnerClass&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=InnerClass/src&amp;lt;com{InnerClass.java[InnerClass1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=InnerClass/src&amp;lt;com{InnerClass.java[InnerClass3&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Keyword/src&amp;lt;com{MyKeyword.java[MyKeyword1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ExceptionHandling/src&amp;lt;com{MyException.java[Example1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Pillars/src&amp;lt;com{Bicycle.java[Test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Pillars/src&amp;lt;com{Sum.java[Sum&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Pillars/src&amp;lt;com{Encapsulate.java[TestEncapsulation&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Diamond/src&amp;lt;com{First.java[TestClass&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ArrayRotation/src&amp;lt;com{ArrayRotate.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=OrderStatistics/src&amp;lt;com{KthSmallest.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Stack/src&amp;lt;com{StackEx.java[MainClass&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Queue/src&amp;lt;com{QueueEx.java[MainClass&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=EmailValidation/src&amp;lt;com{EmailValidation.java[EmailValidation&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="669"/>
+			<item key="DIALOG_Y_ORIGIN" value="186"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="expressionHistory">
+	</section>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item key="WIDTH" value="816"/>
+		<item key="HEIGHT" value="256"/>
+		<item key="SashWeightTree" value="200"/>
+		<item key="SashWeightDetails" value="200"/>
+	</section>
+</section>
